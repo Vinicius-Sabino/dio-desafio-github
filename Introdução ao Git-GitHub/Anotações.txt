@@ -1,0 +1,7 @@
+# Comandos Git
+
+
+
+#### Enviar arquivos para o Git pelo terminal
+
+git push origin main
